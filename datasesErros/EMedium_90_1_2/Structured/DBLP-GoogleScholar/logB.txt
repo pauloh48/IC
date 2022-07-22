@@ -1,0 +1,6 @@
+***********epmatcher/EMedium_90_1_2/Structured/DBLP-GoogleScholar/***********
+Colunas com erros: 1 2
+Erro em label: 2
+Total de colunas: 5
+qtd erros maximos: 2 qtd erros minimos: 1
+**************************************************************************************

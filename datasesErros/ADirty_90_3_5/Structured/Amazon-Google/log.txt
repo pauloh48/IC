@@ -1,0 +1,6 @@
+***********epmatcher/ADirty_90_3_5/Structured/Amazon-Google/***********
+Colunas com erros: 1 2
+Erro em label: 2
+Total de colunas: 4
+qtd erros maximos: 5 qtd erros minimos: 3
+**************************************************************************************

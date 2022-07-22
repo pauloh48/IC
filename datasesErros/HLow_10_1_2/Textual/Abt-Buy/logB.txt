@@ -1,0 +1,6 @@
+***********epmatcher/HLow_10_1_2/Textual/Abt-Buy/***********
+Colunas com erros: 1 2
+Erro em label: 2
+Total de colunas: 4
+qtd erros maximos: 2 qtd erros minimos: 1
+**************************************************************************************

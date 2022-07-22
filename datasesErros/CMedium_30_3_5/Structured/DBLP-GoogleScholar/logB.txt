@@ -1,0 +1,6 @@
+***********epmatcher/CMedium_30_3_5/Structured/DBLP-GoogleScholar/***********
+Colunas com erros: 1 2
+Erro em label: 2
+Total de colunas: 5
+qtd erros maximos: 5 qtd erros minimos: 3
+**************************************************************************************
