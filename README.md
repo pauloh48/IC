@@ -80,3 +80,11 @@ RESULTADOS **************************************************
  - um paragrafo pra cada tabela
  - definir delta (original -e)
  - pq ditto é melhor?
+
+
+
+
+# alterar titulo
+* um para artigo;
+* um para relatorio;
+* um para tcc;
