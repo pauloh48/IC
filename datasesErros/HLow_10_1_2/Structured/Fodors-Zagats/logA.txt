@@ -1,0 +1,6 @@
+***********os2022Dezembro/datsetsErros/HLow_10_1_2/Structured/Fodors-Zagats/***********
+Colunas com erros: 1 2
+Erro em label: 2
+Total de colunas: 7
+qtd erros maximos: 2 qtd erros minimos: 1
+**************************************************************************************

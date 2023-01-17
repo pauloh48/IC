@@ -1,0 +1,6 @@
+***********os2022Dezembro/datsetsErros/FMedium_50_1_2/Dirty/Walmart-Amazon/***********
+Colunas com erros: 1 3
+Erro em label: 2
+Total de colunas: 6
+qtd erros maximos: 2 qtd erros minimos: 1
+**************************************************************************************
