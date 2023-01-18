@@ -1,5 +1,15 @@
 # IC
+# Ultimas modificações
+* Inserido demais datasets:
+ * 2 sujos: iTunes-Amazon, Walmart-Amazon
+ * 2 estruturados: Fodors-Zagats, iTunes-Amazon
 dados IC
+
+# Como as modificações foram geradas?
+ 1. Houve uma limpeza dos dados, pois erros eram gerados
+ 2. Para cada par de dataset, ex.: iTunes-Amazon, selecionamos 2 atributos mais representativos de cada e identicos, assim para o iTunes selecionamos 2 atributos e para a Amazon 2 atributos;
+ 3. Foi realizado o produto cartesiano entre as 2 tabelas para formar o conjunto iTunes-Amazon através de um [script](https://colab.research.google.com/drive/1BrdVHqgIUvYdvNP-oCEqz4r_BSrt5xPG?usp=sharing)
+ 4. Foi executado os testes no DeepMatcher e no Ditto
 
 # Para artigo
 ## deepmatcher
