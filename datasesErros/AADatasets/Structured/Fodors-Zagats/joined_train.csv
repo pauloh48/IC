@@ -1,4 +1,4 @@
-label,left_name,left_addr,left_city,left_phone,left_type,left_class,right_name,right_addr,right_city,right_phone,right_type,right_class,id
+label,left_name,left_addr,left_city,left_phone,left_entity_type,left_class,right_name,right_addr,right_city,right_phone,right_entity_type,right_class,id
 0,toulouse, b peachtree rd. ,atlanta,404/351 -9533,french,92, white house restaurant , 3172 peachtree rd. ne ,atlanta,404-237-7601,diners,719,92_184
 0, luna si , 1931 peachtree rd. ,atlanta,404/355 -5993,continental,405, white house restaurant , 3172 peachtree rd. ne ,atlanta,404-237-7601,diners,719,405_184
 0, dining room ritz-carlton buckhead , 3434 peachtree rd. ,atlanta,404/237 -2700,international,90, white house restaurant , 3172 peachtree rd. ne ,atlanta,404-237-7601,diners,719,90_184
