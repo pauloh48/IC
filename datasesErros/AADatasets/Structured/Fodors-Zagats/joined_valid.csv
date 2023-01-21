@@ -1,4 +1,4 @@
-label,left_name,left_addr,left_city,left_phone,left_type,left_class,right_name,right_addr,right_city,right_phone,right_type,right_class,id
+label,left_name,left_addr,left_city,left_phone,left_entity_type,left_class,right_name,right_addr,right_city,right_phone,right_entity_type,right_class,id
 0,palisades, 1829 peachtree rd. ,atlanta,404/350 -6755,continental,410, ritz-carlton restaurant , 181 peachtree st. ,atlanta,404-659-0400, french ( classic ) ,91,410_309
 1, restaurant ritz-carlton atlanta , 181 peachtree st. ,atlanta,404/659 -0400,continental,91, ritz-carlton restaurant , 181 peachtree st. ,atlanta,404-659-0400, french ( classic ) ,91,91_309
 0,palisades, 1829 peachtree rd. ,atlanta,404/350 -6755,continental,410, georgia grille , 2290 peachtree rd. ,atlanta,404-352-3517,southwestern,81,410_299
