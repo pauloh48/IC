@@ -1,4 +1,4 @@
-label,left_name,left_addr,left_city,left_phone,left_type,left_class,right_name,right_addr,right_city,right_phone,right_type,right_class,id
+label,left_name,left_addr,left_city,left_phone,left_entity_type,left_class,right_name,right_addr,right_city,right_phone,right_entity_type,right_class,id
 0,citrus, 6703 melrose ave. , los angeles ,213/857 -0034,californian,6, le chardonnay ( los angeles ) , 8284 melrose ave. , los angeles ,213-655-8880, french bistro ,12,6_230
 0,eclipse, 8800 melrose ave. , los angeles ,310/724 -5959,californian,132, le chardonnay ( los angeles ) , 8284 melrose ave. , los angeles ,213-655-8880, french bistro ,12,135_230
 0,citrus, 6703 melrose ave. , los angeles ,213/857 -0034,californian,6, sweet lady jane , 8360 melrose ave. ,la,213-653-7145,desserts,596,6_62
