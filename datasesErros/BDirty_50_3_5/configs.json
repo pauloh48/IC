@@ -163,105 +163,105 @@
   "name": "Dirty/DBLP-ACM",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Dirty/DBLP-ACM/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Dirty/DBLP-ACM/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Dirty/DBLP-ACM/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Dirty/DBLP-ACM/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Dirty/DBLP-ACM/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Dirty/DBLP-ACM/test.txt"
   },
   {
   "name": "Dirty/DBLP-GoogleScholar",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Dirty/DBLP-GoogleScholar/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Dirty/DBLP-GoogleScholar/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Dirty/DBLP-GoogleScholar/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Dirty/DBLP-GoogleScholar/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Dirty/DBLP-GoogleScholar/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Dirty/DBLP-GoogleScholar/test.txt"
   },
   {
   "name": "Dirty/iTunes-Amazon",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Dirty/iTunes-Amazon/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Dirty/iTunes-Amazon/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Dirty/iTunes-Amazon/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Dirty/iTunes-Amazon/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Dirty/iTunes-Amazon/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Dirty/iTunes-Amazon/test.txt"
   },
   {
   "name": "Dirty/Walmart-Amazon",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Dirty/Walmart-Amazon/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Dirty/Walmart-Amazon/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Dirty/Walmart-Amazon/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Dirty/Walmart-Amazon/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Dirty/Walmart-Amazon/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Dirty/Walmart-Amazon/test.txt"
   },
   {
   "name": "Structured/Amazon-Google",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Structured/Amazon-Google/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Structured/Amazon-Google/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Structured/Amazon-Google/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Structured/Amazon-Google/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Structured/Amazon-Google/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Structured/Amazon-Google/test.txt"
   },
   {
   "name": "Structured/Beer",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Structured/Beer/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Structured/Beer/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Structured/Beer/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Structured/Beer/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Structured/Beer/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Structured/Beer/test.txt"
   },
   {
   "name": "Structured/DBLP-ACM",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Structured/DBLP-ACM/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Structured/DBLP-ACM/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Structured/DBLP-ACM/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Structured/DBLP-ACM/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Structured/DBLP-ACM/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Structured/DBLP-ACM/test.txt"
   },
   {
   "name": "Structured/DBLP-GoogleScholar",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Structured/DBLP-GoogleScholar/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Structured/DBLP-GoogleScholar/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Structured/DBLP-GoogleScholar/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Structured/DBLP-GoogleScholar/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Structured/DBLP-GoogleScholar/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Structured/DBLP-GoogleScholar/test.txt"
   },
   {
   "name": "Structured/Fodors-Zagats",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Structured/Fodors-Zagats/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Structured/Fodors-Zagats/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Structured/Fodors-Zagats/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Structured/Fodors-Zagats/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Structured/Fodors-Zagats/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Structured/Fodors-Zagats/test.txt"
   },
   {
   "name": "Structured/iTunes-Amazon",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Structured/iTunes-Amazon/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Structured/iTunes-Amazon/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Structured/iTunes-Amazon/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Structured/iTunes-Amazon/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Structured/iTunes-Amazon/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Structured/iTunes-Amazon/test.txt"
   },
   {
   "name": "Structured/Walmart-Amazon",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Structured/Walmart-Amazon/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Structured/Walmart-Amazon/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Structured/Walmart-Amazon/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Structured/Walmart-Amazon/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Structured/Walmart-Amazon/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Structured/Walmart-Amazon/test.txt"
   },
   {
   "name": "Textual/Abt-Buy",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Textual/Abt-Buy/train.txt",
-  "validset": "IC/datasesErros/HLow_10_1_2/Textual/Abt-Buy/valid.txt",
-  "testset": "IC/datasesErros/HLow_10_1_2/Textual/Abt-Buy/test.txt"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Textual/Abt-Buy/train.txt",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Textual/Abt-Buy/valid.txt",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Textual/Abt-Buy/test.txt"
   },
   {
   "name": "Textual/Company",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "IC/datasesErros/HLow_10_1_2/Textual/Company/train.txt.tfidf",
-  "validset": "IC/datasesErros/HLow_10_1_2/Textual/Company/valid.txt.tfidf",
-  "testset": "IC/datasesErros/HLow_10_1_2/Textual/Company/test.txt.tfidf"
+  "trainset": "IC/datasesErros/BDirty_50_3_5/Textual/Company/train.txt.tfidf",
+  "validset": "IC/datasesErros/BDirty_50_3_5/Textual/Company/valid.txt.tfidf",
+  "testset": "IC/datasesErros/BDirty_50_3_5/Textual/Company/test.txt.tfidf"
   },
 {
   "name": "wdc_all_title_small",
